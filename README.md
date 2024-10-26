@@ -53,5 +53,5 @@ To run the project, you will need:
    You can use the `inference.py` script for a command-line based approach (it works on already prepared images):
 
    ```bash
-   python inference.py --image1 path/to/first/image --image2 path/to/second/image
+   python inference.py
    ```
